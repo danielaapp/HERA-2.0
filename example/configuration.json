@@ -1,0 +1,34 @@
+{
+  "paths": {
+    "pcap": "",
+    "flow": "",
+    "csv": "",
+    "truth": ""
+  },
+  "values": {
+    "interface": "enp0s3",
+    "argus": [
+      "-A | Generate application byte metrics in each audit record.",
+      "-Z | Collect packet size information for all flows (to generate mean, max, min and standard deviation).",
+      "-J | Generate packet performance (jitter) data in each audit record."
+    ],
+    "interval": 60,
+    "features": [
+      "bytes",
+      "sbytes",
+      "dbytes",
+      "pkts",
+      "spkts",
+      "dpkts",
+      "dur",
+      "runtime",
+      "idle",
+      "flgs",
+      "tcpopt",
+      "Ssaddr",
+      "Sdaddr"
+    ],
+    "client": "ra",
+    "man": "noman"
+  }
+}
