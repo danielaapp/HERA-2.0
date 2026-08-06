@@ -2,7 +2,7 @@
 
 Tested for Ubuntu. Any questions please send to: dapsp@isep.ipp.pt
 
-The ground truth file should have the following fields: StartTime,LastTime,SrcAddr,Sport,DstAddr,Dport,Proto,Label
+The ground truth file should have the following fields: StartTime,LastTime,SrcAddr,Sport,DstAddr,Dport,Proto,BinaryLabel,CategoryLabel,SubCategoryLabel
 
 There is an example configuration file in the folder example.
 
