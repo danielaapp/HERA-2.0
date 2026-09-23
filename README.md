@@ -6,7 +6,6 @@
 
 HERA is a tool to generate flow-based datasets allowing for ground truth labelling.
 
-
 ## Table of Contents
 
 1. [INSTALLATION GUIDE](#installation-guide)
