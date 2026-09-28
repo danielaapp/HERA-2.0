@@ -1,10 +1,10 @@
-# **H**olistic n**E**twork featu**R**es **A**ggregator (HERA 2.0)
+#  HERA 2.0
 
 <p align="center">
   <img src="docs/images/logo.png" alt="Project Logo" width="200"/>
 </p>
 
-HERA is a tool to generate flow-based datasets allowing for ground truth labelling.
+HERA, **H**olistic n**E**twork featu**R**es **A**ggregator, is a tool to generate flow-based datasets allowing for ground truth labelling.
 
 ## Table of Contents
 
