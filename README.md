@@ -88,7 +88,7 @@ If you use the tool, please consider the following citations:
 HERA's paper.
 
 ```bibtex
-@INPROCEEDINGS{10944918,
+@INPROCEEDINGS{PintoApproach2024,
   author={Pinto, Daniela and Amorim, Ivone and Maia, Eva and Praça, Isabel},
   booktitle={2024 IEEE 23rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)}, 
   title={A Novel Approach to Network Traffic Analysis: the HERA tool}, 
@@ -100,10 +100,10 @@ HERA's paper.
   doi={10.1109/TrustCom63139.2024.00255}}
 ```
 
-Paper with the theorical basis for HERA.
+Paper with the theoretical basis for HERA.
 
 ```bibtex
-@article{PINTO2025111177,
+@article{PintoReview2025,
 title = {A review on intrusion detection datasets: tools, processes, and features},
 journal = {Computer Networks},
 volume = {262},
