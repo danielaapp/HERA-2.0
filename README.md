@@ -1,4 +1,4 @@
-# HERA
+# **H**olistic n**E**twork featu**R**es **A**ggregator (HERA 2.0)
 
 <p align="center">
   <img src="docs/images/logo.png" alt="Project Logo" width="200"/>
